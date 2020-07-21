@@ -1,6 +1,6 @@
 # sandbox
 
-A new Flutter project.
+Projeto para teste de bloc pattern e consumo de API de uma base de dados de filmes
 
 ## Getting Started
 
